@@ -33,6 +33,6 @@ Una vez que tengas los archivos, puedes modificarlos con tu editor de texto favo
 
 Si esta plantilla te fue útil o simplemente quieres apoyar mi esfuerzo para seguir creando recursos como este, ¡te lo agradecería enormemente! Puedes invitarme un café en Ko-fi:
 
-**[☕ Apóyame en Ko-fi](https://ko-fi.com/tu_link_de_ko-fi_aqui)**
+**[☕ Apóyame en Ko-fi](https://ko-fi.com/igs92)**
 
 ---
